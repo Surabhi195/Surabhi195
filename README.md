@@ -13,8 +13,18 @@ Currently, I'm diving into **Data Analytics**, expanding my skill set to include
 
 🌱 **Learning Focus**: Python for Data Analysis, SQL for Data Analytics, Data Visualization, and Machine Learning basics.
 
+## 🛠️ **Data Analytics Tools & Technologies**
+As I explore the field of data analytics, I’m gaining hands-on experience with a variety of tools and technologies:
+
+- **Data Visualization**: Power BI, Tableau, Google Data Studio
+- **Data Analysis & Cleaning**: Python (Pandas, NumPy), SQL, Excel
+- **Statistical Analysis**: R, Python (SciPy, Statsmodels)
+- **Machine Learning**: Scikit-learn, TensorFlow (beginner)
+- **Data Import & Preprocessing**: Google Sheets, SQL
+- **Data Transformation & Exploration**: Power BI, Python (Matplotlib, Seaborn)
+
 👀 **Let's Connect**: Whether you're in web development, data analytics, or tech in general, feel free to reach out! I'm excited to collaborate, share knowledge, and grow within the GitHub community.
 
---- 
+---
 
 Looking forward to connecting and building impactful projects together! 🚀
