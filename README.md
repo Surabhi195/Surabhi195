@@ -1,30 +1,41 @@
+Perfect 👍 You want to highlight yourself as a **Software Developer** while also showcasing your **Data Analytics journey**. Here’s a refined GitHub README that combines **both roles** in a balanced way:
+
+---
+
 # 👋 Hi there! Welcome to my GitHub Profile
 
-I'm @Surabhi195, a software developer with over a year of experience in building and maintaining web applications and APIs. I have a strong background in PHP development, working with frameworks like Laravel, CodeIgniter, WordPress, and Drupal. My technical skills include:
+I'm **Surabhi Karande (@Surabhi195)**, a **Software Developer** with 1+ year of experience in building and maintaining **web applications and APIs**, and a growing passion for **Data Analytics**. I bring together strong development skills and analytical thinking to build impactful solutions that are both scalable and data-driven.
 
-- **Languages & Technologies**: PHP, HTML, CSS, JavaScript, SQL
-- **Web Development**: Frontend and backend development
-- **API Development**: Creating and integrating APIs
-- **Frameworks**: Laravel, CodeIgniter, WordPress, Drupal
+## 💻 **Software Development Skills**
 
----
+* **Languages & Technologies**: PHP, HTML, CSS, JavaScript, SQL
+* **Frameworks & CMS**: Laravel, CodeIgniter, WordPress, Drupal
+* **Web Development**: Full-stack experience (frontend + backend)
+* **API Development**: RESTful API design and integration
+* **Databases**: MySQL, Microsoft SQL Server
 
-Currently, I'm diving into **Data Analytics**, expanding my skill set to include data-driven insights and analytical skills to unlock new possibilities in tech. My journey is all about learning, adapting, and evolving my skills to bridge my web development background with data analysis.
+## 📊 **Data Analytics Skills**
 
-🌱 **Learning Focus**: Python for Data Analysis, SQL for Data Analytics, Data Visualization, and Machine Learning basics.
+* **Data Analysis & Cleaning**: Python (Pandas, NumPy), SQL, Excel
+* **Data Visualization**: Power BI, Tableau, Google Data Studio, Matplotlib, Seaborn
+* **Statistical Analysis**: R, Python (SciPy, Statsmodels)
+* **Machine Learning (Beginner)**: Scikit-learn, TensorFlow
+* **Data Transformation & Exploration**: SQL, Power BI, Python
 
-## 🛠️ **Data Analytics Tools & Technologies**
-As I explore the field of data analytics, I’m gaining hands-on experience with a variety of tools and technologies:
+## 🚀 **What I Do**
 
-- **Data Visualization**: Power BI, Tableau, Google Data Studio
-- **Data Analysis & Cleaning**: Python (Pandas, NumPy), SQL, Excel
-- **Statistical Analysis**: R, Python (SciPy, Statsmodels)
-- **Machine Learning**: Scikit-learn, TensorFlow (beginner)
-- **Data Import & Preprocessing**: Google Sheets, SQL
-- **Data Transformation & Exploration**: Power BI, Python (Matplotlib, Seaborn)
+* **Develop & optimize** web applications with secure and scalable architectures
+* **Integrate APIs** and third-party services for seamless functionality
+* **Analyze and visualize data** to generate actionable insights
+* **Continuously learn** modern frameworks, tools, and analytical methods
 
-👀 **Let's Connect**: Whether you're in web development, data analytics, or tech in general, feel free to reach out! I'm excited to collaborate, share knowledge, and grow within the GitHub community.
+## 🌱 **Current Focus**
 
----
+Expanding my skill set by bridging **web development** with **data analytics**, aiming to deliver solutions that are not only functional but also **data-informed**.
 
-Looking forward to connecting and building impactful projects together! 🚀
+## 🤝 **Let’s Connect**
+
+I’m excited to collaborate on projects in **software development** and **data analytics**, contribute to open-source, and share knowledge within the tech community.
+
+📌 Explore my repositories to check out my work!
+
