@@ -1,7 +1,3 @@
-Perfect 👍 You want to highlight yourself as a **Software Developer** while also showcasing your **Data Analytics journey**. Here’s a refined GitHub README that combines **both roles** in a balanced way:
-
----
-
 # 👋 Hi there! Welcome to my GitHub Profile
 
 I'm **Surabhi Karande (@Surabhi195)**, a **Software Developer** with 1+ year of experience in building and maintaining **web applications and APIs**, and a growing passion for **Data Analytics**. I bring together strong development skills and analytical thinking to build impactful solutions that are both scalable and data-driven.
